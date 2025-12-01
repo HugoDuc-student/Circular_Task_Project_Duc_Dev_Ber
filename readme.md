@@ -27,4 +27,4 @@ The `template.ipynb` notebook contains a minimal template for data analysis with
 
 ## Requirements
 - [A minimal Python environment for reproducible research in human movement sciences](https://github.com/DenisMot/Python-minimal-install) is my preferred solution.
-- Any IDE supporting python and jupyter notebooks is an alternative solution. 
+- Any IDE supporting python and jupyter notebooks is an alternative solution.
